@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# This is a very basic example of binary classification where we are predicting if a student fails or not based on certain factors including marks and others. Of course we cannot in plain way decide if the student passes , but intention is to just demonstrate an example of binary classification
 
 import sklearn
 import pandas as pd
